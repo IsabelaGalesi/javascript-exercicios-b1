@@ -58,12 +58,14 @@ Utilizar variáveis, funções e estruturas condicionais.
 Realizar cálculos matemáticos e percentuais.
 Manipular elementos HTML com JavaScript.
 Desenvolver uma interface interativa.
+
 Informações acadêmicas
 Instituição: Faculdade Anhanguera.
 Unidade: Osasco.
 Disciplina: Desenvolvimento em JavaScript.
 Atividade: Exercícios de Revisão da B1.
 Professor: Marcel Teixeira.
+
 Finalidade
 
 Projeto desenvolvido para fins acadêmicos e educacionais, com o objetivo de praticar os fundamentos de JavaScript.
