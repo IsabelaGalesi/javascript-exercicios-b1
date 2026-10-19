@@ -5,7 +5,7 @@ Projeto acadêmico desenvolvido para os exercícios de revisão da B1 da discipl
 
 O projeto apresenta um painel interativo com três funcionalidades desenvolvidas utilizando HTML, CSS e JavaScript.
 
-Funcionalidades
+*Funcionalidades
 1. Câmbio Comercial
 Recebe um valor em reais (R$).
 Converte o valor para dólares americanos (US 5,19).
@@ -33,7 +33,7 @@ Calcula o rendimento referente a um mês.
 Exibe o resultado em reais (R$).
 
 
-Tecnologias utilizadas
+*Tecnologias utilizadas
 
 HTML5
 CSS3
@@ -45,7 +45,7 @@ css/style.css: estilos visuais do painel.
 README.md: documentação do projeto.
 
 
-Como executar
+*Como executar
 
 Baixe ou clone o repositório.
 Abra a pasta do projeto.
@@ -54,7 +54,7 @@ Preencha os campos e clique nos botões para testar as funcionalidades.
 
 Não é necessário instalar dependências para executar a versão atual.
 
-Objetivos de aprendizagem
+*Objetivos de aprendizagem
 
 Praticar lógica de programação.
 Utilizar variáveis, funções e estruturas condicionais.
@@ -62,7 +62,7 @@ Realizar cálculos matemáticos e percentuais.
 Manipular elementos HTML com JavaScript.
 Desenvolver uma interface interativa.
 
-Informações acadêmicas
+*Informações acadêmicas
 
 Instituição: Faculdade Anhanguera.
 Unidade: Osasco.
