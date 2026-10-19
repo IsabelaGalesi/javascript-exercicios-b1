@@ -34,6 +34,7 @@ Exibe o resultado em reais (R$).
 
 
 Tecnologias utilizadas
+
 HTML5
 CSS3
 JavaScript
@@ -45,6 +46,7 @@ README.md: documentação do projeto.
 
 
 Como executar
+
 Baixe ou clone o repositório.
 Abra a pasta do projeto.
 Abra o arquivo index.html no navegador.
@@ -53,6 +55,7 @@ Preencha os campos e clique nos botões para testar as funcionalidades.
 Não é necessário instalar dependências para executar a versão atual.
 
 Objetivos de aprendizagem
+
 Praticar lógica de programação.
 Utilizar variáveis, funções e estruturas condicionais.
 Realizar cálculos matemáticos e percentuais.
@@ -60,6 +63,7 @@ Manipular elementos HTML com JavaScript.
 Desenvolver uma interface interativa.
 
 Informações acadêmicas
+
 Instituição: Faculdade Anhanguera.
 Unidade: Osasco.
 Disciplina: Desenvolvimento em JavaScript.
